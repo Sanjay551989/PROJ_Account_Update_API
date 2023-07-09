@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PROJ_Synchronise_Account_Api": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --port 7072 --pause-on-error"
+    }
+  }
+}
